@@ -105,8 +105,6 @@ Setiap peran memiliki antarmuka dan fitur yang sesuai untuk menunjang fungsinya.
 **Miftah Wardini**  
 Mahasiswa Politeknik Negeri Medan – Manajemen Informatika  
 Email: miftahzen25@gmail.com  
-GitHub: [github.com/wardini-0ss](https://github.com/wardini-0ss)
 
----
 
 > Proyek ini sepenuhnya dikembangkan sebagai proyek mandiri dan menjadi bukti nyata kemampuan saya dalam menganalisis kebutuhan pengguna, merancang sistem, dan mengembangkan aplikasi informasi berbasis web dengan struktur multi-role yang kompleks dan dinamis.
