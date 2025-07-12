@@ -4,7 +4,7 @@ Sistem ini dikembangkan sebagai proyek mandiri untuk mengelola layanan klinik, t
 
 **Peran Saya (System Analyst & Developer)**
 
->Sebagai pengembang tunggal proyek ini, saya bertanggung jawab untuk:
+*Sebagai pengembang tunggal proyek ini, saya bertanggung jawab untuk:
 
 > Melakukan analisis kebutuhan pengguna dan fungsionalitas sistem
 
