@@ -6,25 +6,25 @@ Sistem ini dikembangkan sebagai proyek mandiri untuk mengelola layanan klinik, t
 
 *Sebagai pengembang tunggal proyek ini, saya bertanggung jawab untuk:
 
-> Melakukan analisis kebutuhan pengguna dan fungsionalitas sistem
+*Melakukan analisis kebutuhan pengguna dan fungsionalitas sistem
 
-> Mendesain ERD dan struktur database
+*Mendesain ERD dan struktur database
 
-> Membuat flowchart proses layanan klinik
+*Membuat flowchart proses layanan klinik
 
-> Mengembangkan antarmuka web menggunakan HTML, CSS, dan PHP
+*Mengembangkan antarmuka web menggunakan HTML, CSS, dan PHP
 
-> Menghubungkan sistem dengan database MySQL
+*Menghubungkan sistem dengan database MySQL
 
-> Menguji sistem secara menyeluruh
+*Menguji sistem secara menyeluruh
 
-> Menyesuaikan hak akses berdasarkan peran (multi-role user)
+*Menyesuaikan hak akses berdasarkan peran (multi-role user)
 
 **Role Pengguna (Multi-Role User)**
 
 Sistem ini dirancang dengan autentikasi dan hak akses berdasarkan peran pengguna:
 
-> Pasien
+*Pasien
 
 ~Melakukan pendaftaran dan login
 
@@ -34,7 +34,7 @@ Sistem ini dirancang dengan autentikasi dan hak akses berdasarkan peran pengguna
 
 ~Melihat riwayat pemeriksaan
 
-> Dokter
+*Dokter
 
 ~Login dan melihat jadwal praktik
 
@@ -42,7 +42,7 @@ Sistem ini dirancang dengan autentikasi dan hak akses berdasarkan peran pengguna
 
 ~Mengisi catatan medis dan hasil pemeriksaan
 
-> Admin Klinik
+*Admin Klinik
 
 ~Kelola data dokter, pasien, dan layanan
 
@@ -50,7 +50,7 @@ Sistem ini dirancang dengan autentikasi dan hak akses berdasarkan peran pengguna
 
 ~Monitoring seluruh aktivitas sistem
 
-> Resepsionis / Petugas Pendaftaran
+*Resepsionis / Petugas Pendaftaran
 
 ~Input data pendaftaran pasien langsung di klinik
 
@@ -60,31 +60,31 @@ Setiap peran memiliki antarmuka dan fitur yang sesuai untuk menunjang fungsinya.
 
 **Fitur Sistem**
 
-> Login multi-role (admin, dokter, pasien, resepsionis)
+*Login multi-role (admin, dokter, pasien, resepsionis)
 
-> Manajemen data pasien dan dokter
+*Manajemen data pasien dan dokter
 
-> Penjadwalan praktik
+*Penjadwalan praktik
 
-> Registrasi layanan dan pemeriksaan
+*Registrasi layanan dan pemeriksaan
 
-> Catatan medis oleh dokter
+*Catatan medis oleh dokter
 
-> Riwayat layanan pasien
+*Riwayat layanan pasien
 
-> Dashboard admin dan grafik layanan
+*Dashboard admin dan grafik layanan
 
-> Validasi login dan keamanan dasar
+*Validasi login dan keamanan dasar
 
 **Teknologi yang Digunakan**
 
-> PHP Native
+*PHP Native
 
-> MySQL Database
+*MySQL Database
 
-> HTML, CSS, JavaScript
+*HTML, CSS, JavaScript
 
-> Bootstrap
+*Bootstrap
 
 **Tampilan Sistem**
 
@@ -92,19 +92,19 @@ Setiap peran memiliki antarmuka dan fitur yang sesuai untuk menunjang fungsinya.
 
 **Struktur Folder**
 
-> /admin – Fitur untuk admin klinik
+*/admin – Fitur untuk admin klinik
 
-> /dokter – Tampilan untuk dokter
+*/dokter – Tampilan untuk dokter
 
-> /pasien – Tampilan untuk pasien
+*/pasien – Tampilan untuk pasien
 
-> /resepsionis – Tampilan untuk frontdesk/pendaftaran
+*/resepsionis – Tampilan untuk frontdesk/pendaftaran
 
-> /includes – File koneksi dan konfigurasi
+*/includes – File koneksi dan konfigurasi
 
-> index.php – Halaman utama
+*index.php – Halaman utama
 
-> login.php – Halaman login multi-role
+*login.php – Halaman login multi-role
 
 **Tentang Saya**
 
